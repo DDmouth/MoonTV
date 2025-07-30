@@ -85,10 +85,6 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
      },
-    "18": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "18"
-       },
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
